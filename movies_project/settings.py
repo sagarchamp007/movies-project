@@ -82,9 +82,9 @@ WSGI_APPLICATION = 'movies_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'moviescoll',
-        'USER': 'sagar',
-        'PASSWORD': 'sagar',
+        'NAME': 'moviescolldb',
+        'USER': 'moviescoll',
+        'PASSWORD': 'moviescoll',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
