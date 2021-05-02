@@ -1,4 +1,4 @@
-# movies-project
+movies-project
 
 In psql terminal ->
 create user moviescoll with password 'moviescoll';
@@ -19,4 +19,3 @@ python manage.py runserver
 APIS -> 
 Import link in Postman
 https://www.getpostman.com/collections/aa3eb1b423e779a5a714
-
