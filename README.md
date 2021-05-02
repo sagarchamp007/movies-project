@@ -19,4 +19,4 @@ python manage.py runserver
 
 APIS ->.  
 Import link in Postman 
-https://www.getpostman.com/collections/aa3eb1b423e779a5a714. 
+https://www.getpostman.com/collections/aa3eb1b423e779a5a714   
