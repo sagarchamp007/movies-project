@@ -5,7 +5,7 @@ create user moviescoll with password 'moviescoll';
 alter role moviescoll with superuser createdb createrole;
 CREATE DATABASE moviescolldb OWNER moviescoll;
 
-Connect using-> psql -d moviescolldb -U moviescoll;
+Connect using-> psql -d moviescolldb -U moviescoll
 
 TO install ->
 pip install -r requirements.txt
